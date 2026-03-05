@@ -4,7 +4,7 @@ View The [Deploy Click Here](https://angular-to-do-list.pages.dev/home).
 
 ## Where It is Deployed
 
-It is Deployed On The [Netlify Check it Out Here](https://www.netlify.com/).
+It is Deployed On The [Cloudflare Pages Check it Out Here](https://pages.cloudflare.com/).
 
 ## Needs To Clone.
 * NPM
